@@ -1,0 +1,5 @@
+1) git status('Modified File List');
+2) git add -A ('Add Files to staging')
+3) git commit -m "commit message" ('commit with message')
+4) git pull origin master ('download files from repository')
+5) git push origin master ('upload files to repository')
